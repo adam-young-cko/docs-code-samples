@@ -1,0 +1,9 @@
+{
+  "source": {
+    "type": "token",
+    "token": "tok_XXX"
+  },
+  "amount": 24.99,
+  "currency": "USD",
+  "processing_channel_id": "pc_XXX"
+}

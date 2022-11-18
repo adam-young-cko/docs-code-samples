@@ -1,0 +1,63 @@
+{
+  "id": "pay_qzpz6fv4dv2etnarerhvqxsvlm",
+  "action_id": "act_agaoqbtsccie5j2zd6jwdodpg4",
+  "amount": 24.99,
+  "currency": "USD",
+  "approved": true,
+  "status": "Authorized",
+  "auth_code": "631973",
+  "response_code": "10000",
+  "response_summary": "Approved",
+  "balances": {
+    "total_authorized": 24.99,
+    "total_voided": 0,
+    "available_to_void": 24.99,
+    "total_captured": 0,
+    "available_to_capture": 24.99,
+    "total_refunded": 0,
+    "available_to_refund": 0
+  },
+  "risk": {
+    "flagged": false
+  },
+  "source": {
+    "id": "src_usxsfdifd2pebamd734fwsihg4",
+    "type": "card",
+    "phone": {},
+    "expiry_month": 1,
+    "expiry_year": 2027,
+    "scheme": "Visa",
+    "last4": "4242",
+    "fingerprint": "2FE6B057E42927009AA100493441AD7C8E88A82573FCAE69C02D8C919F017895",
+    "bin": "424242",
+    "card_type": "CREDIT",
+    "card_category": "CONSUMER",
+    "issuer_country": "GB",
+    "product_id": "F",
+    "product_type": "Visa Classic",
+    "avs_check": "G",
+    "cvv_check": "Y",
+    "payment_account_reference": "V001763436387291028"
+  },
+  "processed_on": "2022-10-20T13:28:05.5201442Z",
+  "scheme_id": "581305702984089",
+  "processing": {
+    "acquirer_transaction_id": "541740228271589217340",
+    "retrieval_reference_number": "462197862661"
+  },
+  "expires_on": "2022-11-19T13:28:05.5201442Z",
+  "_links": {
+    "self": {
+      "href": "https://api.sandbox.checkout.com/payments/pay_qzpz6fv4dv2etnarerhvqxsvlm"
+    },
+    "actions": {
+      "href": "https://api.sandbox.checkout.com/payments/pay_qzpz6fv4dv2etnarerhvqxsvlm/actions"
+    },
+    "capture": {
+      "href": "https://api.sandbox.checkout.com/payments/pay_qzpz6fv4dv2etnarerhvqxsvlm/captures"
+    },
+    "void": {
+      "href": "https://api.sandbox.checkout.com/payments/pay_qzpz6fv4dv2etnarerhvqxsvlm/voids"
+    }
+  }
+}

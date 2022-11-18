@@ -1,0 +1,5 @@
+{
+  "request_id": "b4ea9ea1-3af6-4b34-8c8e-74cc7e456654",
+  "error_type": "processing_error",
+  "error_codes": ["token_expired"]
+}
