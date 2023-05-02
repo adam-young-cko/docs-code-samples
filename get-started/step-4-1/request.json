@@ -3,7 +3,7 @@
     "type": "token",
     "token": "tok_XXX"
   },
-  "amount": 24.99,
+  "amount": 2499,
   "currency": "USD",
   "processing_channel_id": "pc_XXX"
 }

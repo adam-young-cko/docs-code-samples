@@ -1,7 +1,7 @@
 {
   "id": "pay_qzpz6fv4dv2etnarerhvqxsvlm",
   "action_id": "act_agaoqbtsccie5j2zd6jwdodpg4",
-  "amount": 24.99,
+  "amount": 2499,
   "currency": "USD",
   "approved": true,
   "status": "Authorized",
@@ -9,11 +9,11 @@
   "response_code": "10000",
   "response_summary": "Approved",
   "balances": {
-    "total_authorized": 24.99,
+    "total_authorized": 2499,
     "total_voided": 0,
-    "available_to_void": 24.99,
+    "available_to_void": 2499,
     "total_captured": 0,
-    "available_to_capture": 24.99,
+    "available_to_capture": 2499,
     "total_refunded": 0,
     "available_to_refund": 0
   },
